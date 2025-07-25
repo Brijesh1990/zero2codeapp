@@ -133,4 +133,15 @@ body {
   .social-media {
     font-size: 10px !important;
   }
+  .call-us-enq,
+  .whatsapp-us,
+  .enq {
+    font-size: 12px !important;
+    font-weight: 100 !important;
+  }
+  .enq-form input {
+    width: 100% !important;
+    height: auto;
+    padding: 5px !important;
+  }
 }
